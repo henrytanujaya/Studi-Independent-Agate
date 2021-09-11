@@ -269,8 +269,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1269413729}
   m_HandleRect: {fileID: 1269413728}
   m_Direction: 2
-  m_Value: 1
-  m_Size: 0.9999999
+  m_Value: 0
+  m_Size: 1
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -1121,7 +1121,7 @@ MonoBehaviour:
     UpgradeCost: 1000000
     Output: 2000000
   ResourcesSprites:
-  - {fileID: 21300000, guid: b19c5f2f1cddb0745bcf118ff5df29fe, type: 3}
+  - {fileID: 21300000, guid: a7d859b11edb6624a9bac83d00b4dd45, type: 3}
   - {fileID: 21300000, guid: 48f2438128e39b24db10319cbb0fd801, type: 3}
   ResourcesParent: {fileID: 1723982039}
   ResourcePrefab: {fileID: 3492754953631258890, guid: 83582701c808d934a8f2ec39d3303bef,
@@ -1685,8 +1685,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1442181717}
   m_HandleRect: {fileID: 1442181716}
   m_Direction: 0
-  m_Value: 0
-  m_Size: 0.9999999
+  m_Value: 0.5
+  m_Size: 0.99999994
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -1789,7 +1789,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: b19c5f2f1cddb0745bcf118ff5df29fe, type: 3}
+  m_Sprite: {fileID: 21300000, guid: a7d859b11edb6624a9bac83d00b4dd45, type: 3}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1840,7 +1840,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0.0000014184416, y: 0.0000428934}
+  m_AnchoredPosition: {x: 0.0000014184416, y: -0.000018592922}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &1723982040
