@@ -58,14 +58,7 @@
      <Compile Include="Assets\Scripts\ResourceController.cs" />
      <Compile Include="Assets\Scripts\TapArea.cs" />
      <Compile Include="Assets\Scripts\TapText.cs" />
-     <None Include="Assets\Sprites\Player\p2_spritesheet.txt" />
-     <None Include="Assets\Sprites\Player\p1_spritesheet.txt" />
-     <None Include="Assets\Sprites\Items\items_spritesheet.xml" />
-     <None Include="Assets\Sprites\HUD\hud_spritesheet.xml" />
-     <None Include="Assets\Sprites\Tiles\tiles_spritesheet.xml" />
-     <None Include="Assets\Sprites\Player\p3_spritesheet.txt" />
      <None Include="Assets\Sprites\license.txt" />
-     <None Include="Assets\Sprites\Enemies\enemies_spritesheet.txt" />
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>C:/Users/tanuj/Documents/GitHub/Studi-Independent-Agate/Incremental Game/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
